@@ -9,6 +9,6 @@
   "author": "Sachin Singh",
   "license": "UNLICENSED",
   "devDependencies": {
-    "rollup": "^2.0.6"
+    "rollup": "^3.29.5"
   }
 }
